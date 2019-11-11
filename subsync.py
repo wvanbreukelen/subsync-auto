@@ -1,4 +1,4 @@
-# I known, it is ugly code. But it works.
+# I know, it is ugly code. But it works.
 
 import subprocess
 import shlex
